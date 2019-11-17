@@ -11,7 +11,11 @@
 9. Use absolute URLS for images
 10. Use XHTML 1.0 Transitional
 11. Use nested tables because neither the colspan nor rowspan attributes are properly supported.
+12. You can’t apply multiple classes to things in HTML email
+13. You can’t use shorthand for things like font size
 
 
 
 https://webdesign.tutsplus.com/tutorials/what-you-should-know-about-html-email--webdesign-12908
+
+https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770
